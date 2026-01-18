@@ -17,3 +17,6 @@ export * from "./hooks";
 
 // Keyframes
 export * from "./keyframes";
+
+// Presets
+export * from "./presets";

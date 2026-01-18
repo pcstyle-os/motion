@@ -1,3 +1,18 @@
 export { useReducedMotion, useAccessibleMotion } from "./useReducedMotion";
 export { useScrollProgress, useScrollTransform, useScrollPosition } from "./useScrollProgress";
 export { useAnimationSequence, useAnimateTrigger } from "./useAnimationSequence";
+export { useMagneticEffect } from "./useMagneticEffect";
+export { useParallax, useParallaxLayers } from "./useParallax";
+export { useInView, useInViewMultiple } from "./useInView";
+export { useMousePosition } from "./useMousePosition";
+export { useSpringValue, useSpringValues, useSpringCounter } from "./useSpringValue";
+export { useSmoothScroll, useScrollReveal } from "./useSmoothScroll";
+export { useTilt } from "./useTilt";
+export { useRipple } from "./useRipple.js";
+export { useTypewriter, useTypewriterOnce } from "./useTypewriter";
+export { useFloating, useAutoFloat } from "./useFloating";
+export { useGesture } from "./useGesture";
+export { useFollowPointer, useFollowPointerTrail } from "./useFollowPointer";
+export { useTrail } from "./useTrail";
+export { useStagger } from "./useStagger";
+export { useCycle, useCycleVariants } from "./useCycle";
